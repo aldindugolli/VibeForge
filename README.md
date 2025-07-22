@@ -119,7 +119,7 @@ yaml
 Copy
 Edit
 
----
+```
 
 ## ✅ Approvals
 
@@ -130,6 +130,7 @@ Update `communication/approvals.json` or use the CLI:
   "codebot": { "approved": false },
   "refactorbot": { "approved": false }
 }
+```
 🧠 Future Plans
 🧪 Web dashboard for control and logs
 
@@ -143,4 +144,4 @@ Update `communication/approvals.json` or use the CLI:
 MIT — feel free to fork, modify, and contribute.
 
 ✨ Author
-Built with vibes by yourname — 2025.
+Built with vibes by Aldin Dugolli — 2025.
